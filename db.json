@@ -1,4 +1,11 @@
-var product =[
-{"number" : 0,
-  "quote" : "Everyday is a new one"}
-];
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
